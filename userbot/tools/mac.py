@@ -152,7 +152,7 @@ async def mac_main(mac_address):
                 f"├ Улица: **{wigle_road}**\n"
                 f"├ Широта: **{wigle_latitude}**\n"
                 f"└ Долгота: **{wigle_longitude}**\n\n"
-                f"┌[ 🅾️ Mylinkov ]\n"
+                f"┌[ 🅾️ Mylnikov ]\n"
                 f"├ Широта: **{mylinkov_latitude}**\n"
                 f"├ Долгота: **{mylinkov_logitude}**\n"
                 f"└ Диапазон: **{mylinkov_range}**"
