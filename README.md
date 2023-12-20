@@ -1,5 +1,6 @@
 # Tiny-Osint-UserBot
 ![alt text](https://github.com/Fsocguy/Tiny-Osint-UserBot/blob/main/screenshots/1.png) ![alt text](https://github.com/Fsocguy/Tiny-Osint-UserBot/blob/main/screenshots/2.png)
+
 P.S: Знаю об ошибке в названии API (В коде исправил)
 ## Описание
 Небольшой юзербот, которого я написал из остатков нереализованного telegram-бота
