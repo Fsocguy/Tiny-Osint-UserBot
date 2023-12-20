@@ -1,0 +1,4 @@
+asyncio~=3.4.3
+aiohttp~=3.8.6
+colorama~=0.4.4
+Pyrogram~=2.0.106
